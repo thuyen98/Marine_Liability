@@ -2,11 +2,11 @@
 ## Basic responsibilities of a general insurance actuarial analyst
 Before working on the project, it's important to build a solid foundation in the key topics we'll need to understand. This preparation will ensure we have the tools and knowledge necessary to approach wer tasks with confidence and skill.
 
-### Risk assessment
+1. Risk assessment
 
 As an actuarial analyst, the primary role is to assess risks. This involves analyzing data to identify potential risks that an insurance company might face. we will use statistical models and historical data to predict the likelihood of future events, such as natural disasters, accidents, or other claim-triggering incidents. Accurate risk assessment is crucial for setting appropriate premiums and ensuring the financial stability of the insurance company.
 
-### Pricing
+2. Pricing
 
 One of the core responsibilities is determining the pricing of insurance policies. This process, known as ratemaking, involves calculating the premiums that policyholders must pay. we will use various actuarial methods, such as experience-based rating, which relies on historical claims data to set rates. The goal is to balance competitiveness with profitability, ensuring that the premiums are sufficient to cover future claims and expenses while remaining attractive to customers.
 
