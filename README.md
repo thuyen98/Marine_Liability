@@ -33,7 +33,7 @@ Marine insurance provides coverage for ships, cargo, terminals, and any transpor
 
 Marine insurance covers a wide range of perils that can cause damage or loss. Some of the most common include:
 
-*Sinking*: When a vessel goes down due to severe weather, collision, or other catastrophic events.
+*Sinking*: When a vessel goes down due to severe weather, collision, or other catastrophic events. /
 *Collision*: Damage resulting from a vessel colliding with another ship, a stationary object, or submerged rocks.
 *Piracy*: The criminal act of attacking and robbing ships at sea, which can lead to loss of cargo and vessel damage.
 *Fire*: Fires can occur on ships due to various reasons, including onboard accidents or external factors like lightning strikes.
