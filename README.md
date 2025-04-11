@@ -90,3 +90,4 @@ Conducting a pricing analysis involves several key steps:
 *Rate calculation*: Apply experience-based rating methods to calculate the base rates. Adjust these rates for various factors such as policy limits, deductibles, and coverage options.\
 *Validation and testing*: Validate the pricing model using different datasets to ensure accuracy and reliability. Adjust the model as necessary based on the results.\
 *Documentation and reporting*: Prepare a detailed report outlining the pricing methodology, assumptions, calculations, and final rates. Include commentary on any uncertainties or risks identified during the analysis.\
+
