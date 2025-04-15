@@ -1,4 +1,4 @@
-# Marine Liability
+# Marine liability
 
 ## I. Basic responsibilities of a general insurance actuarial analyst
 Before working on the project, it's important to build a solid foundation in the key topics we'll need to understand. This preparation will ensure we have the tools and knowledge necessary to approach wer tasks with confidence and skill.
